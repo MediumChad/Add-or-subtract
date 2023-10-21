@@ -31,7 +31,7 @@ class addnsubtract
             Console.WriteLine($"The result of {num1} - {num2} is; {result}");
         }
         else 
-        { Console.WriteLine("Yeah.... Just go ahead and turn off your compter");
+        { Console.WriteLine("Yeah.... Just go ahead and turn off your computer");
         }
 
         static bool IsletterA(string letter)
